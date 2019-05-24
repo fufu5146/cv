@@ -39,10 +39,10 @@ d’intervention passée ou future.*
 
 #### Diplome
 -2019
-**Formation à la Wild Code School de Reims, Formation JAVA/JEE**
+**Formation à la Wild Code School de Reims, Formation JAVA/JEE**  
 -2016-2018
 **BTS Service Informatiques aux Organisations Option Solutions Logicielles
-Applications Métiers**, Lycée Franklin Roosevelt, Reims*
+Applications Métiers**, Lycée Franklin Roosevelt, Reims*  
 -2015-2016
 **BAC STMG Option Service d’information de Gestion**, *Lycée Franklin Roosevelt,
 Reims*
